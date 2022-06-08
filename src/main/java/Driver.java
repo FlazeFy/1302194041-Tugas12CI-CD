@@ -16,11 +16,6 @@ public class Driver {
 		
 		System.out.println("Current count:" + counter.getCount());
 		
-<<<<<<< Updated upstream
-=======
-
-		
->>>>>>> Stashed changes
 	}
 
 }
