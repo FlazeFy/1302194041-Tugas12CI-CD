@@ -4,7 +4,6 @@
   <artifactId>contohproject</artifactId>
   <version>0.0.2</version>
 
-	
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
